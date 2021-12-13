@@ -1,0 +1,179 @@
+FIPSCode,LocationType,Location,TimeFrame,DataFormat,Data
+06,State,California,2013,Rate per 100,29.3
+06,State,California,2015,Rate per 100,31.4
+06,State,California,2016,Rate per 100,34.1
+06001,County,Alameda County,2013,Rate per 100,32.2
+06001,County,Alameda County,2015,Rate per 100,27.7
+06001,County,Alameda County,2016,Rate per 100,29.4
+06003,County,Alpine County,2013,Rate per 100,S
+06003,County,Alpine County,2015,Rate per 100,S
+06003,County,Alpine County,2016,Rate per 100,S
+06005,County,Amador County,2013,Rate per 100,16.7
+06005,County,Amador County,2015,Rate per 100,25.3
+06005,County,Amador County,2016,Rate per 100,28.1
+06007,County,Butte County,2013,Rate per 100,27.3
+06007,County,Butte County,2015,Rate per 100,22.6
+06007,County,Butte County,2016,Rate per 100,24.5
+06009,County,Calaveras County,2013,Rate per 100,35.8
+06009,County,Calaveras County,2015,Rate per 100,30.5
+06009,County,Calaveras County,2016,Rate per 100,33.3
+06011,County,Colusa County,2013,Rate per 100,14.8
+06011,County,Colusa County,2015,Rate per 100,11.3
+06011,County,Colusa County,2016,Rate per 100,11.4
+06013,County,Contra Costa County,2013,Rate per 100,30.9
+06013,County,Contra Costa County,2015,Rate per 100,37.8
+06013,County,Contra Costa County,2016,Rate per 100,38.9
+06015,County,Del Norte County,2013,Rate per 100,21.7
+06015,County,Del Norte County,2015,Rate per 100,9.1
+06015,County,Del Norte County,2016,Rate per 100,11.0
+06017,County,El Dorado County,2013,Rate per 100,20.5
+06017,County,El Dorado County,2015,Rate per 100,26.9
+06017,County,El Dorado County,2016,Rate per 100,28.3
+06019,County,Fresno County,2013,Rate per 100,33.2
+06019,County,Fresno County,2015,Rate per 100,39.4
+06019,County,Fresno County,2016,Rate per 100,40.3
+06021,County,Glenn County,2013,Rate per 100,15.9
+06021,County,Glenn County,2015,Rate per 100,18.2
+06021,County,Glenn County,2016,Rate per 100,22.7
+06023,County,Humboldt County,2013,Rate per 100,27.9
+06023,County,Humboldt County,2015,Rate per 100,31.0
+06023,County,Humboldt County,2016,Rate per 100,35.1
+06025,County,Imperial County,2013,Rate per 100,31.1
+06025,County,Imperial County,2015,Rate per 100,34.2
+06025,County,Imperial County,2016,Rate per 100,29.8
+06027,County,Inyo County,2013,Rate per 100,8.5
+06027,County,Inyo County,2015,Rate per 100,11.5
+06027,County,Inyo County,2016,Rate per 100,19.8
+06029,County,Kern County,2013,Rate per 100,27.6
+06029,County,Kern County,2015,Rate per 100,31.3
+06029,County,Kern County,2016,Rate per 100,39.8
+06031,County,Kings County,2013,Rate per 100,27.6
+06031,County,Kings County,2015,Rate per 100,31.1
+06031,County,Kings County,2016,Rate per 100,29.5
+06033,County,Lake County,2013,Rate per 100,28.9
+06033,County,Lake County,2015,Rate per 100,39.9
+06033,County,Lake County,2016,Rate per 100,43.3
+06035,County,Lassen County,2013,Rate per 100,23.5
+06035,County,Lassen County,2015,Rate per 100,15.1
+06035,County,Lassen County,2016,Rate per 100,20.6
+06037,County,Los Angeles County,2013,Rate per 100,34.3
+06037,County,Los Angeles County,2015,Rate per 100,31.4
+06037,County,Los Angeles County,2016,Rate per 100,39.3
+06039,County,Madera County,2013,Rate per 100,32.5
+06039,County,Madera County,2015,Rate per 100,35.5
+06039,County,Madera County,2016,Rate per 100,36.9
+06041,County,Marin County,2013,Rate per 100,17.6
+06041,County,Marin County,2015,Rate per 100,22.6
+06041,County,Marin County,2016,Rate per 100,28.3
+06043,County,Mariposa County,2013,Rate per 100,20.9
+06043,County,Mariposa County,2015,Rate per 100,23.6
+06043,County,Mariposa County,2016,Rate per 100,22.0
+06045,County,Mendocino County,2013,Rate per 100,21.3
+06045,County,Mendocino County,2015,Rate per 100,40.2
+06045,County,Mendocino County,2016,Rate per 100,31.1
+06047,County,Merced County,2013,Rate per 100,24.2
+06047,County,Merced County,2015,Rate per 100,33.1
+06047,County,Merced County,2016,Rate per 100,33.1
+06049,County,Modoc County,2013,Rate per 100,27.4
+06049,County,Modoc County,2015,Rate per 100,34.8
+06049,County,Modoc County,2016,Rate per 100,33.4
+06051,County,Mono County,2013,Rate per 100,34.3
+06051,County,Mono County,2015,Rate per 100,30.9
+06051,County,Mono County,2016,Rate per 100,32.1
+06053,County,Monterey County,2013,Rate per 100,21.4
+06053,County,Monterey County,2015,Rate per 100,27.8
+06053,County,Monterey County,2016,Rate per 100,30.6
+06055,County,Napa County,2013,Rate per 100,21.4
+06055,County,Napa County,2015,Rate per 100,20.6
+06055,County,Napa County,2016,Rate per 100,20.0
+06057,County,Nevada County,2013,Rate per 100,12.5
+06057,County,Nevada County,2015,Rate per 100,15.8
+06057,County,Nevada County,2016,Rate per 100,19.6
+06059,County,Orange County,2013,Rate per 100,20.1
+06059,County,Orange County,2015,Rate per 100,23.7
+06059,County,Orange County,2016,Rate per 100,27.1
+06061,County,Placer County,2013,Rate per 100,14.8
+06061,County,Placer County,2015,Rate per 100,14.9
+06061,County,Placer County,2016,Rate per 100,17.9
+06063,County,Plumas County,2013,Rate per 100,22.4
+06063,County,Plumas County,2015,Rate per 100,21.8
+06063,County,Plumas County,2016,Rate per 100,28.1
+06065,County,Riverside County,2013,Rate per 100,30.5
+06065,County,Riverside County,2015,Rate per 100,34.0
+06065,County,Riverside County,2016,Rate per 100,34.9
+06067,County,Sacramento County,2013,Rate per 100,32.9
+06067,County,Sacramento County,2015,Rate per 100,38.3
+06067,County,Sacramento County,2016,Rate per 100,41.8
+06069,County,San Benito County,2013,Rate per 100,21.2
+06069,County,San Benito County,2015,Rate per 100,23.2
+06069,County,San Benito County,2016,Rate per 100,25.8
+06071,County,San Bernardino County,2013,Rate per 100,36.1
+06071,County,San Bernardino County,2015,Rate per 100,43.0
+06071,County,San Bernardino County,2016,Rate per 100,39.7
+06073,County,San Diego County,2013,Rate per 100,23.0
+06073,County,San Diego County,2015,Rate per 100,25.0
+06073,County,San Diego County,2016,Rate per 100,25.6
+06075,County,San Francisco County,2013,Rate per 100,22.7
+06075,County,San Francisco County,2015,Rate per 100,26.3
+06075,County,San Francisco County,2016,Rate per 100,25.6
+06077,County,San Joaquin County,2013,Rate per 100,24.7
+06077,County,San Joaquin County,2015,Rate per 100,33.4
+06077,County,San Joaquin County,2016,Rate per 100,32.7
+06079,County,San Luis Obispo County,2013,Rate per 100,35.1
+06079,County,San Luis Obispo County,2015,Rate per 100,39.8
+06079,County,San Luis Obispo County,2016,Rate per 100,34.8
+06081,County,San Mateo County,2013,Rate per 100,25.1
+06081,County,San Mateo County,2015,Rate per 100,26.9
+06081,County,San Mateo County,2016,Rate per 100,25.9
+06083,County,Santa Barbara County,2013,Rate per 100,27.6
+06083,County,Santa Barbara County,2015,Rate per 100,22.7
+06083,County,Santa Barbara County,2016,Rate per 100,24.1
+06085,County,Santa Clara County,2013,Rate per 100,23.0
+06085,County,Santa Clara County,2015,Rate per 100,25.7
+06085,County,Santa Clara County,2016,Rate per 100,26.1
+06087,County,Santa Cruz County,2013,Rate per 100,25.5
+06087,County,Santa Cruz County,2015,Rate per 100,16.0
+06087,County,Santa Cruz County,2016,Rate per 100,23.3
+06089,County,Shasta County,2013,Rate per 100,36.0
+06089,County,Shasta County,2015,Rate per 100,38.0
+06089,County,Shasta County,2016,Rate per 100,40.9
+06091,County,Sierra County,2013,Rate per 100,34.8
+06091,County,Sierra County,2015,Rate per 100,39.0
+06091,County,Sierra County,2016,Rate per 100,33.7
+06093,County,Siskiyou County,2013,Rate per 100,12.5
+06093,County,Siskiyou County,2015,Rate per 100,22.5
+06093,County,Siskiyou County,2016,Rate per 100,23.4
+06095,County,Solano County,2013,Rate per 100,28.5
+06095,County,Solano County,2015,Rate per 100,43.4
+06095,County,Solano County,2016,Rate per 100,42.8
+06097,County,Sonoma County,2013,Rate per 100,18.5
+06097,County,Sonoma County,2015,Rate per 100,23.8
+06097,County,Sonoma County,2016,Rate per 100,23.6
+06099,County,Stanislaus County,2013,Rate per 100,24.3
+06099,County,Stanislaus County,2015,Rate per 100,27.3
+06099,County,Stanislaus County,2016,Rate per 100,26.9
+06101,County,Sutter County,2013,Rate per 100,19.7
+06101,County,Sutter County,2015,Rate per 100,23.0
+06101,County,Sutter County,2016,Rate per 100,23.1
+06103,County,Tehama County,2013,Rate per 100,17.9
+06103,County,Tehama County,2015,Rate per 100,20.1
+06103,County,Tehama County,2016,Rate per 100,22.0
+06105,County,Trinity County,2013,Rate per 100,30.4
+06105,County,Trinity County,2015,Rate per 100,40.4
+06105,County,Trinity County,2016,Rate per 100,33.3
+06107,County,Tulare County,2013,Rate per 100,30.7
+06107,County,Tulare County,2015,Rate per 100,31.5
+06107,County,Tulare County,2016,Rate per 100,27.4
+06109,County,Tuolumne County,2013,Rate per 100,26.4
+06109,County,Tuolumne County,2015,Rate per 100,24.9
+06109,County,Tuolumne County,2016,Rate per 100,21.8
+06111,County,Ventura County,2013,Rate per 100,24.5
+06111,County,Ventura County,2015,Rate per 100,33.8
+06111,County,Ventura County,2016,Rate per 100,32.3
+06113,County,Yolo County,2013,Rate per 100,26.6
+06113,County,Yolo County,2015,Rate per 100,30.8
+06113,County,Yolo County,2016,Rate per 100,30.4
+06115,County,Yuba County,2013,Rate per 100,13.7
+06115,County,Yuba County,2015,Rate per 100,18.6
+06115,County,Yuba County,2016,Rate per 100,21.2
+
