@@ -1,0 +1,474 @@
+FIPSCode,LocationType,Location,GradeLevel,StudentResponse,TimeFrame,DataFormat,Data
+06,State,California,Grade 7,None,2015_2017,Percent,66.4
+06001,County,Alameda County,Grade 7,None,2015_2017,Percent,65.6
+06003,County,Alpine County,Grade 7,None,2015_2017,Percent,S
+06005,County,Amador County,Grade 7,None,2015_2017,Percent,46.6
+06007,County,Butte County,Grade 7,None,2015_2017,Percent,64.9
+06009,County,Calaveras County,Grade 7,None,2015_2017,Percent,58.3
+06011,County,Colusa County,Grade 7,None,2015_2017,Percent,71.0
+06013,County,Contra Costa County,Grade 7,None,2015_2017,Percent,65.1
+06015,County,Del Norte County,Grade 7,None,2015_2017,Percent,44.2
+06017,County,El Dorado County,Grade 7,None,2015_2017,Percent,65.4
+06019,County,Fresno County,Grade 7,None,2015_2017,Percent,S
+06021,County,Glenn County,Grade 7,None,2015_2017,Percent,63.7
+06023,County,Humboldt County,Grade 7,None,2015_2017,Percent,59.3
+06025,County,Imperial County,Grade 7,None,2015_2017,Percent,71.3
+06027,County,Inyo County,Grade 7,None,2015_2017,Percent,44.5
+06029,County,Kern County,Grade 7,None,2015_2017,Percent,67.4
+06031,County,Kings County,Grade 7,None,2015_2017,Percent,63.1
+06033,County,Lake County,Grade 7,None,2015_2017,Percent,64.3
+06035,County,Lassen County,Grade 7,None,2015_2017,Percent,55.9
+06037,County,Los Angeles County,Grade 7,None,2015_2017,Percent,67.3
+06039,County,Madera County,Grade 7,None,2015_2017,Percent,S
+06041,County,Marin County,Grade 7,None,2015_2017,Percent,67.5
+06043,County,Mariposa County,Grade 7,None,2015_2017,Percent,66.4
+06045,County,Mendocino County,Grade 7,None,2015_2017,Percent,57.3
+06047,County,Merced County,Grade 7,None,2015_2017,Percent,S
+06049,County,Modoc County,Grade 7,None,2015_2017,Percent,56.9
+06051,County,Mono County,Grade 7,None,2015_2017,Percent,77.5
+06053,County,Monterey County,Grade 7,None,2015_2017,Percent,72.6
+06055,County,Napa County,Grade 7,None,2015_2017,Percent,67.6
+06057,County,Nevada County,Grade 7,None,2015_2017,Percent,63.4
+06059,County,Orange County,Grade 7,None,2015_2017,Percent,68.2
+06061,County,Placer County,Grade 7,None,2015_2017,Percent,63.8
+06063,County,Plumas County,Grade 7,None,2015_2017,Percent,50.8
+06065,County,Riverside County,Grade 7,None,2015_2017,Percent,66.1
+06067,County,Sacramento County,Grade 7,None,2015_2017,Percent,62.3
+06069,County,San Benito County,Grade 7,None,2015_2017,Percent,S
+06071,County,San Bernardino County,Grade 7,None,2015_2017,Percent,S
+06073,County,San Diego County,Grade 7,None,2015_2017,Percent,64.5
+06075,County,San Francisco County,Grade 7,None,2015_2017,Percent,64.7
+06077,County,San Joaquin County,Grade 7,None,2015_2017,Percent,63.0
+06079,County,San Luis Obispo County,Grade 7,None,2015_2017,Percent,65.9
+06081,County,San Mateo County,Grade 7,None,2015_2017,Percent,62.4
+06083,County,Santa Barbara County,Grade 7,None,2015_2017,Percent,73.6
+06085,County,Santa Clara County,Grade 7,None,2015_2017,Percent,S
+06087,County,Santa Cruz County,Grade 7,None,2015_2017,Percent,69.0
+06089,County,Shasta County,Grade 7,None,2015_2017,Percent,S
+06091,County,Sierra County,Grade 7,None,2015_2017,Percent,58.2
+06093,County,Siskiyou County,Grade 7,None,2015_2017,Percent,44.3
+06095,County,Solano County,Grade 7,None,2015_2017,Percent,57.9
+06097,County,Sonoma County,Grade 7,None,2015_2017,Percent,65.9
+06099,County,Stanislaus County,Grade 7,None,2015_2017,Percent,67.6
+06101,County,Sutter County,Grade 7,None,2015_2017,Percent,65.0
+06103,County,Tehama County,Grade 7,None,2015_2017,Percent,66.8
+06105,County,Trinity County,Grade 7,None,2015_2017,Percent,68.9
+06107,County,Tulare County,Grade 7,None,2015_2017,Percent,67.4
+06109,County,Tuolumne County,Grade 7,None,2015_2017,Percent,58.7
+06111,County,Ventura County,Grade 7,None,2015_2017,Percent,64.6
+06113,County,Yolo County,Grade 7,None,2015_2017,Percent,71.8
+06115,County,Yuba County,Grade 7,None,2015_2017,Percent,58.3
+06,State,California,Grade 7,Some,2015_2017,Percent,33.6
+06,State,California,Grade 9,None,2015_2017,Percent,69.0
+06001,County,Alameda County,Grade 7,Some,2015_2017,Percent,34.4
+06001,County,Alameda County,Grade 9,None,2015_2017,Percent,67.0
+06003,County,Alpine County,Grade 7,Some,2015_2017,Percent,S
+06003,County,Alpine County,Grade 9,None,2015_2017,Percent,N_A
+06005,County,Amador County,Grade 7,Some,2015_2017,Percent,53.4
+06005,County,Amador County,Grade 9,None,2015_2017,Percent,70.1
+06007,County,Butte County,Grade 7,Some,2015_2017,Percent,35.1
+06007,County,Butte County,Grade 9,None,2015_2017,Percent,66.1
+06009,County,Calaveras County,Grade 7,Some,2015_2017,Percent,41.7
+06009,County,Calaveras County,Grade 9,None,2015_2017,Percent,61.5
+06011,County,Colusa County,Grade 7,Some,2015_2017,Percent,29.0
+06011,County,Colusa County,Grade 9,None,2015_2017,Percent,64.7
+06013,County,Contra Costa County,Grade 7,Some,2015_2017,Percent,34.9
+06013,County,Contra Costa County,Grade 9,None,2015_2017,Percent,67.0
+06015,County,Del Norte County,Grade 7,Some,2015_2017,Percent,55.8
+06015,County,Del Norte County,Grade 9,None,2015_2017,Percent,68.8
+06017,County,El Dorado County,Grade 7,Some,2015_2017,Percent,34.6
+06017,County,El Dorado County,Grade 9,None,2015_2017,Percent,61.4
+06019,County,Fresno County,Grade 7,Some,2015_2017,Percent,S
+06019,County,Fresno County,Grade 9,None,2015_2017,Percent,S
+06021,County,Glenn County,Grade 7,Some,2015_2017,Percent,36.3
+06021,County,Glenn County,Grade 9,None,2015_2017,Percent,68.8
+06023,County,Humboldt County,Grade 7,Some,2015_2017,Percent,40.7
+06023,County,Humboldt County,Grade 9,None,2015_2017,Percent,66.0
+06025,County,Imperial County,Grade 7,Some,2015_2017,Percent,28.7
+06025,County,Imperial County,Grade 9,None,2015_2017,Percent,73.8
+06027,County,Inyo County,Grade 7,Some,2015_2017,Percent,55.5
+06027,County,Inyo County,Grade 9,None,2015_2017,Percent,67.3
+06029,County,Kern County,Grade 7,Some,2015_2017,Percent,32.6
+06029,County,Kern County,Grade 9,None,2015_2017,Percent,71.9
+06031,County,Kings County,Grade 7,Some,2015_2017,Percent,36.9
+06031,County,Kings County,Grade 9,None,2015_2017,Percent,68.2
+06033,County,Lake County,Grade 7,Some,2015_2017,Percent,35.7
+06033,County,Lake County,Grade 9,None,2015_2017,Percent,60.5
+06035,County,Lassen County,Grade 7,Some,2015_2017,Percent,44.1
+06035,County,Lassen County,Grade 9,None,2015_2017,Percent,57.4
+06037,County,Los Angeles County,Grade 7,Some,2015_2017,Percent,32.7
+06037,County,Los Angeles County,Grade 9,None,2015_2017,Percent,72.6
+06039,County,Madera County,Grade 7,Some,2015_2017,Percent,S
+06039,County,Madera County,Grade 9,None,2015_2017,Percent,S
+06041,County,Marin County,Grade 7,Some,2015_2017,Percent,32.5
+06041,County,Marin County,Grade 9,None,2015_2017,Percent,67.9
+06043,County,Mariposa County,Grade 7,Some,2015_2017,Percent,33.6
+06043,County,Mariposa County,Grade 9,None,2015_2017,Percent,68.1
+06045,County,Mendocino County,Grade 7,Some,2015_2017,Percent,42.7
+06045,County,Mendocino County,Grade 9,None,2015_2017,Percent,64.0
+06047,County,Merced County,Grade 7,Some,2015_2017,Percent,S
+06047,County,Merced County,Grade 9,None,2015_2017,Percent,71.9
+06049,County,Modoc County,Grade 7,Some,2015_2017,Percent,43.1
+06049,County,Modoc County,Grade 9,None,2015_2017,Percent,53.3
+06051,County,Mono County,Grade 7,Some,2015_2017,Percent,22.5
+06051,County,Mono County,Grade 9,None,2015_2017,Percent,77.4
+06053,County,Monterey County,Grade 7,Some,2015_2017,Percent,27.4
+06053,County,Monterey County,Grade 9,None,2015_2017,Percent,71.6
+06055,County,Napa County,Grade 7,Some,2015_2017,Percent,32.4
+06055,County,Napa County,Grade 9,None,2015_2017,Percent,71.7
+06057,County,Nevada County,Grade 7,Some,2015_2017,Percent,36.6
+06057,County,Nevada County,Grade 9,None,2015_2017,Percent,65.6
+06059,County,Orange County,Grade 7,Some,2015_2017,Percent,31.8
+06059,County,Orange County,Grade 9,None,2015_2017,Percent,69.9
+06061,County,Placer County,Grade 7,Some,2015_2017,Percent,36.2
+06061,County,Placer County,Grade 9,None,2015_2017,Percent,69.7
+06063,County,Plumas County,Grade 7,Some,2015_2017,Percent,49.2
+06063,County,Plumas County,Grade 9,None,2015_2017,Percent,58.9
+06065,County,Riverside County,Grade 7,Some,2015_2017,Percent,33.9
+06065,County,Riverside County,Grade 9,None,2015_2017,Percent,68.3
+06067,County,Sacramento County,Grade 7,Some,2015_2017,Percent,37.7
+06067,County,Sacramento County,Grade 9,None,2015_2017,Percent,65.5
+06069,County,San Benito County,Grade 7,Some,2015_2017,Percent,S
+06069,County,San Benito County,Grade 9,None,2015_2017,Percent,71.6
+06071,County,San Bernardino County,Grade 7,Some,2015_2017,Percent,S
+06071,County,San Bernardino County,Grade 9,None,2015_2017,Percent,S
+06073,County,San Diego County,Grade 7,Some,2015_2017,Percent,35.5
+06073,County,San Diego County,Grade 9,None,2015_2017,Percent,70.5
+06075,County,San Francisco County,Grade 7,Some,2015_2017,Percent,35.3
+06075,County,San Francisco County,Grade 9,None,2015_2017,Percent,76.9
+06077,County,San Joaquin County,Grade 7,Some,2015_2017,Percent,37.0
+06077,County,San Joaquin County,Grade 9,None,2015_2017,Percent,70.5
+06079,County,San Luis Obispo County,Grade 7,Some,2015_2017,Percent,34.1
+06079,County,San Luis Obispo County,Grade 9,None,2015_2017,Percent,64.1
+06081,County,San Mateo County,Grade 7,Some,2015_2017,Percent,37.6
+06081,County,San Mateo County,Grade 9,None,2015_2017,Percent,67.4
+06083,County,Santa Barbara County,Grade 7,Some,2015_2017,Percent,26.4
+06083,County,Santa Barbara County,Grade 9,None,2015_2017,Percent,75.0
+06085,County,Santa Clara County,Grade 7,Some,2015_2017,Percent,S
+06085,County,Santa Clara County,Grade 9,None,2015_2017,Percent,S
+06087,County,Santa Cruz County,Grade 7,Some,2015_2017,Percent,31.0
+06087,County,Santa Cruz County,Grade 9,None,2015_2017,Percent,74.9
+06089,County,Shasta County,Grade 7,Some,2015_2017,Percent,S
+06089,County,Shasta County,Grade 9,None,2015_2017,Percent,S
+06091,County,Sierra County,Grade 7,Some,2015_2017,Percent,41.8
+06091,County,Sierra County,Grade 9,None,2015_2017,Percent,69.1
+06093,County,Siskiyou County,Grade 7,Some,2015_2017,Percent,55.7
+06095,County,Solano County,Grade 7,Some,2015_2017,Percent,42.1
+06097,County,Sonoma County,Grade 7,Some,2015_2017,Percent,34.1
+06099,County,Stanislaus County,Grade 7,Some,2015_2017,Percent,32.4
+06101,County,Sutter County,Grade 7,Some,2015_2017,Percent,35.0
+06103,County,Tehama County,Grade 7,Some,2015_2017,Percent,33.2
+06105,County,Trinity County,Grade 7,Some,2015_2017,Percent,31.1
+06107,County,Tulare County,Grade 7,Some,2015_2017,Percent,32.6
+06109,County,Tuolumne County,Grade 7,Some,2015_2017,Percent,41.3
+06111,County,Ventura County,Grade 7,Some,2015_2017,Percent,35.4
+06113,County,Yolo County,Grade 7,Some,2015_2017,Percent,28.2
+06115,County,Yuba County,Grade 7,Some,2015_2017,Percent,41.7
+06,State,California,Grade 9,Some,2015_2017,Percent,31.0
+06,State,California,Grade 11,None,2015_2017,Percent,72.0
+06,State,California,Grade 11,Some,2015_2017,Percent,28.0
+06001,County,Alameda County,Grade 9,Some,2015_2017,Percent,33.0
+06001,County,Alameda County,Grade 11,None,2015_2017,Percent,70.9
+06001,County,Alameda County,Grade 11,Some,2015_2017,Percent,29.1
+06003,County,Alpine County,Grade 9,Some,2015_2017,Percent,N_A
+06003,County,Alpine County,Grade 11,None,2015_2017,Percent,N_A
+06003,County,Alpine County,Grade 11,Some,2015_2017,Percent,N_A
+06005,County,Amador County,Grade 9,Some,2015_2017,Percent,29.9
+06005,County,Amador County,Grade 11,None,2015_2017,Percent,57.6
+06005,County,Amador County,Grade 11,Some,2015_2017,Percent,42.4
+06007,County,Butte County,Grade 9,Some,2015_2017,Percent,33.9
+06007,County,Butte County,Grade 11,None,2015_2017,Percent,69.0
+06007,County,Butte County,Grade 11,Some,2015_2017,Percent,31.0
+06009,County,Calaveras County,Grade 9,Some,2015_2017,Percent,38.5
+06009,County,Calaveras County,Grade 11,None,2015_2017,Percent,66.6
+06009,County,Calaveras County,Grade 11,Some,2015_2017,Percent,33.4
+06011,County,Colusa County,Grade 9,Some,2015_2017,Percent,35.3
+06011,County,Colusa County,Grade 11,None,2015_2017,Percent,72.9
+06011,County,Colusa County,Grade 11,Some,2015_2017,Percent,27.1
+06013,County,Contra Costa County,Grade 9,Some,2015_2017,Percent,33.0
+06013,County,Contra Costa County,Grade 11,None,2015_2017,Percent,73.8
+06013,County,Contra Costa County,Grade 11,Some,2015_2017,Percent,26.2
+06015,County,Del Norte County,Grade 9,Some,2015_2017,Percent,31.2
+06015,County,Del Norte County,Grade 11,None,2015_2017,Percent,73.9
+06015,County,Del Norte County,Grade 11,Some,2015_2017,Percent,26.1
+06017,County,El Dorado County,Grade 9,Some,2015_2017,Percent,38.6
+06017,County,El Dorado County,Grade 11,None,2015_2017,Percent,63.7
+06017,County,El Dorado County,Grade 11,Some,2015_2017,Percent,36.3
+06019,County,Fresno County,Grade 9,Some,2015_2017,Percent,S
+06019,County,Fresno County,Grade 11,None,2015_2017,Percent,S
+06019,County,Fresno County,Grade 11,Some,2015_2017,Percent,S
+06021,County,Glenn County,Grade 9,Some,2015_2017,Percent,31.2
+06021,County,Glenn County,Grade 11,None,2015_2017,Percent,67.0
+06021,County,Glenn County,Grade 11,Some,2015_2017,Percent,33.0
+06023,County,Humboldt County,Grade 9,Some,2015_2017,Percent,34.0
+06023,County,Humboldt County,Grade 11,None,2015_2017,Percent,72.7
+06023,County,Humboldt County,Grade 11,Some,2015_2017,Percent,27.3
+06025,County,Imperial County,Grade 9,Some,2015_2017,Percent,26.2
+06025,County,Imperial County,Grade 11,None,2015_2017,Percent,75.9
+06025,County,Imperial County,Grade 11,Some,2015_2017,Percent,24.1
+06027,County,Inyo County,Grade 9,Some,2015_2017,Percent,32.7
+06027,County,Inyo County,Grade 11,None,2015_2017,Percent,N_A
+06027,County,Inyo County,Grade 11,Some,2015_2017,Percent,N_A
+06029,County,Kern County,Grade 9,Some,2015_2017,Percent,28.1
+06029,County,Kern County,Grade 11,None,2015_2017,Percent,72.2
+06029,County,Kern County,Grade 11,Some,2015_2017,Percent,27.8
+06031,County,Kings County,Grade 9,Some,2015_2017,Percent,31.8
+06031,County,Kings County,Grade 11,None,2015_2017,Percent,74.6
+06031,County,Kings County,Grade 11,Some,2015_2017,Percent,25.4
+06033,County,Lake County,Grade 9,Some,2015_2017,Percent,39.5
+06033,County,Lake County,Grade 11,None,2015_2017,Percent,65.9
+06033,County,Lake County,Grade 11,Some,2015_2017,Percent,34.1
+06035,County,Lassen County,Grade 9,Some,2015_2017,Percent,42.6
+06035,County,Lassen County,Grade 11,None,2015_2017,Percent,63.9
+06035,County,Lassen County,Grade 11,Some,2015_2017,Percent,36.1
+06037,County,Los Angeles County,Grade 9,Some,2015_2017,Percent,27.4
+06037,County,Los Angeles County,Grade 11,None,2015_2017,Percent,76.1
+06037,County,Los Angeles County,Grade 11,Some,2015_2017,Percent,23.9
+06039,County,Madera County,Grade 9,Some,2015_2017,Percent,S
+06039,County,Madera County,Grade 11,None,2015_2017,Percent,S
+06039,County,Madera County,Grade 11,Some,2015_2017,Percent,S
+06041,County,Marin County,Grade 9,Some,2015_2017,Percent,32.1
+06041,County,Marin County,Grade 11,None,2015_2017,Percent,73.9
+06041,County,Marin County,Grade 11,Some,2015_2017,Percent,26.1
+06043,County,Mariposa County,Grade 9,Some,2015_2017,Percent,31.9
+06043,County,Mariposa County,Grade 11,None,2015_2017,Percent,75.3
+06043,County,Mariposa County,Grade 11,Some,2015_2017,Percent,24.7
+06045,County,Mendocino County,Grade 9,Some,2015_2017,Percent,36.0
+06045,County,Mendocino County,Grade 11,None,2015_2017,Percent,74.8
+06045,County,Mendocino County,Grade 11,Some,2015_2017,Percent,25.2
+06047,County,Merced County,Grade 9,Some,2015_2017,Percent,28.1
+06047,County,Merced County,Grade 11,None,2015_2017,Percent,72.3
+06047,County,Merced County,Grade 11,Some,2015_2017,Percent,27.7
+06049,County,Modoc County,Grade 9,Some,2015_2017,Percent,46.7
+06049,County,Modoc County,Grade 11,None,2015_2017,Percent,60.3
+06049,County,Modoc County,Grade 11,Some,2015_2017,Percent,39.7
+06051,County,Mono County,Grade 9,Some,2015_2017,Percent,22.6
+06051,County,Mono County,Grade 11,None,2015_2017,Percent,69.4
+06051,County,Mono County,Grade 11,Some,2015_2017,Percent,30.6
+06053,County,Monterey County,Grade 9,Some,2015_2017,Percent,28.4
+06053,County,Monterey County,Grade 11,None,2015_2017,Percent,77.7
+06053,County,Monterey County,Grade 11,Some,2015_2017,Percent,22.3
+06055,County,Napa County,Grade 9,Some,2015_2017,Percent,28.3
+06055,County,Napa County,Grade 11,None,2015_2017,Percent,74.0
+06055,County,Napa County,Grade 11,Some,2015_2017,Percent,26.0
+06057,County,Nevada County,Grade 9,Some,2015_2017,Percent,34.4
+06057,County,Nevada County,Grade 11,None,2015_2017,Percent,73.5
+06057,County,Nevada County,Grade 11,Some,2015_2017,Percent,26.5
+06059,County,Orange County,Grade 9,Some,2015_2017,Percent,30.1
+06059,County,Orange County,Grade 11,None,2015_2017,Percent,72.9
+06059,County,Orange County,Grade 11,Some,2015_2017,Percent,27.1
+06061,County,Placer County,Grade 9,Some,2015_2017,Percent,30.3
+06061,County,Placer County,Grade 11,None,2015_2017,Percent,69.3
+06061,County,Placer County,Grade 11,Some,2015_2017,Percent,30.7
+06063,County,Plumas County,Grade 9,Some,2015_2017,Percent,41.1
+06063,County,Plumas County,Grade 11,None,2015_2017,Percent,77.1
+06063,County,Plumas County,Grade 11,Some,2015_2017,Percent,22.9
+06065,County,Riverside County,Grade 9,Some,2015_2017,Percent,31.7
+06065,County,Riverside County,Grade 11,None,2015_2017,Percent,71.7
+06065,County,Riverside County,Grade 11,Some,2015_2017,Percent,28.3
+06067,County,Sacramento County,Grade 9,Some,2015_2017,Percent,34.5
+06067,County,Sacramento County,Grade 11,None,2015_2017,Percent,69.4
+06067,County,Sacramento County,Grade 11,Some,2015_2017,Percent,30.6
+06069,County,San Benito County,Grade 9,Some,2015_2017,Percent,28.4
+06069,County,San Benito County,Grade 11,None,2015_2017,Percent,74.4
+06069,County,San Benito County,Grade 11,Some,2015_2017,Percent,25.6
+06071,County,San Bernardino County,Grade 9,Some,2015_2017,Percent,S
+06071,County,San Bernardino County,Grade 11,None,2015_2017,Percent,S
+06071,County,San Bernardino County,Grade 11,Some,2015_2017,Percent,S
+06073,County,San Diego County,Grade 9,Some,2015_2017,Percent,29.5
+06073,County,San Diego County,Grade 11,None,2015_2017,Percent,73.7
+06075,County,San Francisco County,Grade 9,Some,2015_2017,Percent,23.1
+06075,County,San Francisco County,Grade 11,None,2015_2017,Percent,81.2
+06077,County,San Joaquin County,Grade 9,Some,2015_2017,Percent,29.5
+06077,County,San Joaquin County,Grade 11,None,2015_2017,Percent,71.0
+06079,County,San Luis Obispo County,Grade 9,Some,2015_2017,Percent,35.9
+06079,County,San Luis Obispo County,Grade 11,None,2015_2017,Percent,68.8
+06081,County,San Mateo County,Grade 9,Some,2015_2017,Percent,32.6
+06081,County,San Mateo County,Grade 11,None,2015_2017,Percent,S
+06083,County,Santa Barbara County,Grade 9,Some,2015_2017,Percent,25.0
+06083,County,Santa Barbara County,Grade 11,None,2015_2017,Percent,77.4
+06085,County,Santa Clara County,Grade 9,Some,2015_2017,Percent,S
+06085,County,Santa Clara County,Grade 11,None,2015_2017,Percent,S
+06087,County,Santa Cruz County,Grade 9,Some,2015_2017,Percent,25.1
+06087,County,Santa Cruz County,Grade 11,None,2015_2017,Percent,78.4
+06089,County,Shasta County,Grade 9,Some,2015_2017,Percent,S
+06089,County,Shasta County,Grade 11,None,2015_2017,Percent,S
+06091,County,Sierra County,Grade 9,Some,2015_2017,Percent,30.9
+06091,County,Sierra County,Grade 11,None,2015_2017,Percent,57.7
+06093,County,Siskiyou County,Grade 9,None,2015_2017,Percent,66.1
+06093,County,Siskiyou County,Grade 9,Some,2015_2017,Percent,33.9
+06093,County,Siskiyou County,Grade 11,None,2015_2017,Percent,70.2
+06095,County,Solano County,Grade 9,None,2015_2017,Percent,64.3
+06095,County,Solano County,Grade 9,Some,2015_2017,Percent,35.7
+06095,County,Solano County,Grade 11,None,2015_2017,Percent,70.1
+06097,County,Sonoma County,Grade 9,None,2015_2017,Percent,66.5
+06097,County,Sonoma County,Grade 9,Some,2015_2017,Percent,33.5
+06097,County,Sonoma County,Grade 11,None,2015_2017,Percent,69.4
+06099,County,Stanislaus County,Grade 9,None,2015_2017,Percent,65.9
+06099,County,Stanislaus County,Grade 9,Some,2015_2017,Percent,34.1
+06099,County,Stanislaus County,Grade 11,None,2015_2017,Percent,67.6
+06101,County,Sutter County,Grade 9,None,2015_2017,Percent,69.7
+06101,County,Sutter County,Grade 9,Some,2015_2017,Percent,30.3
+06101,County,Sutter County,Grade 11,None,2015_2017,Percent,70.5
+06103,County,Tehama County,Grade 9,None,2015_2017,Percent,70.3
+06103,County,Tehama County,Grade 9,Some,2015_2017,Percent,29.7
+06103,County,Tehama County,Grade 11,None,2015_2017,Percent,67.8
+06105,County,Trinity County,Grade 9,None,2015_2017,Percent,72.9
+06105,County,Trinity County,Grade 9,Some,2015_2017,Percent,27.1
+06105,County,Trinity County,Grade 11,None,2015_2017,Percent,69.0
+06107,County,Tulare County,Grade 9,None,2015_2017,Percent,72.2
+06107,County,Tulare County,Grade 9,Some,2015_2017,Percent,27.8
+06107,County,Tulare County,Grade 11,None,2015_2017,Percent,77.3
+06109,County,Tuolumne County,Grade 9,None,2015_2017,Percent,68.4
+06109,County,Tuolumne County,Grade 9,Some,2015_2017,Percent,31.6
+06109,County,Tuolumne County,Grade 11,None,2015_2017,Percent,72.0
+06111,County,Ventura County,Grade 9,None,2015_2017,Percent,69.9
+06111,County,Ventura County,Grade 9,Some,2015_2017,Percent,30.1
+06111,County,Ventura County,Grade 11,None,2015_2017,Percent,72.9
+06113,County,Yolo County,Grade 9,None,2015_2017,Percent,70.4
+06113,County,Yolo County,Grade 9,Some,2015_2017,Percent,29.6
+06113,County,Yolo County,Grade 11,None,2015_2017,Percent,71.9
+06115,County,Yuba County,Grade 9,None,2015_2017,Percent,69.1
+06115,County,Yuba County,Grade 9,Some,2015_2017,Percent,30.9
+06115,County,Yuba County,Grade 11,None,2015_2017,Percent,71.0
+06,State,California,Non_Traditional,None,2015_2017,Percent,81.6
+06,State,California,Non_Traditional,Some,2015_2017,Percent,18.4
+06001,County,Alameda County,Non_Traditional,None,2015_2017,Percent,77.2
+06001,County,Alameda County,Non_Traditional,Some,2015_2017,Percent,22.8
+06003,County,Alpine County,Non_Traditional,None,2015_2017,Percent,N_A
+06003,County,Alpine County,Non_Traditional,Some,2015_2017,Percent,N_A
+06005,County,Amador County,Non_Traditional,None,2015_2017,Percent,S
+06005,County,Amador County,Non_Traditional,Some,2015_2017,Percent,S
+06007,County,Butte County,Non_Traditional,None,2015_2017,Percent,78.8
+06007,County,Butte County,Non_Traditional,Some,2015_2017,Percent,21.2
+06009,County,Calaveras County,Non_Traditional,None,2015_2017,Percent,S
+06009,County,Calaveras County,Non_Traditional,Some,2015_2017,Percent,S
+06011,County,Colusa County,Non_Traditional,None,2015_2017,Percent,S
+06011,County,Colusa County,Non_Traditional,Some,2015_2017,Percent,S
+06013,County,Contra Costa County,Non_Traditional,None,2015_2017,Percent,S
+06013,County,Contra Costa County,Non_Traditional,Some,2015_2017,Percent,S
+06015,County,Del Norte County,Non_Traditional,None,2015_2017,Percent,S
+06015,County,Del Norte County,Non_Traditional,Some,2015_2017,Percent,S
+06017,County,El Dorado County,Non_Traditional,None,2015_2017,Percent,S
+06017,County,El Dorado County,Non_Traditional,Some,2015_2017,Percent,S
+06019,County,Fresno County,Non_Traditional,None,2015_2017,Percent,S
+06019,County,Fresno County,Non_Traditional,Some,2015_2017,Percent,S
+06021,County,Glenn County,Non_Traditional,None,2015_2017,Percent,72.9
+06021,County,Glenn County,Non_Traditional,Some,2015_2017,Percent,27.1
+06023,County,Humboldt County,Non_Traditional,None,2015_2017,Percent,71.9
+06023,County,Humboldt County,Non_Traditional,Some,2015_2017,Percent,28.1
+06025,County,Imperial County,Non_Traditional,None,2015_2017,Percent,S
+06025,County,Imperial County,Non_Traditional,Some,2015_2017,Percent,S
+06027,County,Inyo County,Non_Traditional,None,2015_2017,Percent,N_A
+06027,County,Inyo County,Non_Traditional,Some,2015_2017,Percent,N_A
+06029,County,Kern County,Non_Traditional,None,2015_2017,Percent,73.1
+06029,County,Kern County,Non_Traditional,Some,2015_2017,Percent,26.9
+06031,County,Kings County,Non_Traditional,None,2015_2017,Percent,S
+06031,County,Kings County,Non_Traditional,Some,2015_2017,Percent,S
+06033,County,Lake County,Non_Traditional,None,2015_2017,Percent,S
+06033,County,Lake County,Non_Traditional,Some,2015_2017,Percent,S
+06035,County,Lassen County,Non_Traditional,None,2015_2017,Percent,N_A
+06035,County,Lassen County,Non_Traditional,Some,2015_2017,Percent,N_A
+06037,County,Los Angeles County,Non_Traditional,None,2015_2017,Percent,80.6
+06037,County,Los Angeles County,Non_Traditional,Some,2015_2017,Percent,19.4
+06039,County,Madera County,Non_Traditional,None,2015_2017,Percent,S
+06039,County,Madera County,Non_Traditional,Some,2015_2017,Percent,S
+06041,County,Marin County,Non_Traditional,None,2015_2017,Percent,S
+06041,County,Marin County,Non_Traditional,Some,2015_2017,Percent,S
+06043,County,Mariposa County,Non_Traditional,None,2015_2017,Percent,N_A
+06043,County,Mariposa County,Non_Traditional,Some,2015_2017,Percent,N_A
+06045,County,Mendocino County,Non_Traditional,None,2015_2017,Percent,S
+06045,County,Mendocino County,Non_Traditional,Some,2015_2017,Percent,S
+06047,County,Merced County,Non_Traditional,None,2015_2017,Percent,S
+06047,County,Merced County,Non_Traditional,Some,2015_2017,Percent,S
+06049,County,Modoc County,Non_Traditional,None,2015_2017,Percent,N_A
+06049,County,Modoc County,Non_Traditional,Some,2015_2017,Percent,N_A
+06051,County,Mono County,Non_Traditional,None,2015_2017,Percent,S
+06051,County,Mono County,Non_Traditional,Some,2015_2017,Percent,S
+06053,County,Monterey County,Non_Traditional,None,2015_2017,Percent,83.9
+06053,County,Monterey County,Non_Traditional,Some,2015_2017,Percent,16.1
+06055,County,Napa County,Non_Traditional,None,2015_2017,Percent,79.5
+06055,County,Napa County,Non_Traditional,Some,2015_2017,Percent,20.5
+06057,County,Nevada County,Non_Traditional,None,2015_2017,Percent,74.1
+06057,County,Nevada County,Non_Traditional,Some,2015_2017,Percent,25.9
+06059,County,Orange County,Non_Traditional,None,2015_2017,Percent,76.7
+06059,County,Orange County,Non_Traditional,Some,2015_2017,Percent,23.3
+06061,County,Placer County,Non_Traditional,None,2015_2017,Percent,65.3
+06061,County,Placer County,Non_Traditional,Some,2015_2017,Percent,34.7
+06063,County,Plumas County,Non_Traditional,None,2015_2017,Percent,N_A
+06063,County,Plumas County,Non_Traditional,Some,2015_2017,Percent,N_A
+06065,County,Riverside County,Non_Traditional,None,2015_2017,Percent,76.1
+06065,County,Riverside County,Non_Traditional,Some,2015_2017,Percent,23.9
+06067,County,Sacramento County,Non_Traditional,None,2015_2017,Percent,S
+06067,County,Sacramento County,Non_Traditional,Some,2015_2017,Percent,S
+06069,County,San Benito County,Non_Traditional,None,2015_2017,Percent,77.8
+06069,County,San Benito County,Non_Traditional,Some,2015_2017,Percent,22.2
+06071,County,San Bernardino County,Non_Traditional,None,2015_2017,Percent,S
+06071,County,San Bernardino County,Non_Traditional,Some,2015_2017,Percent,S
+06073,County,San Diego County,Grade 11,Some,2015_2017,Percent,26.3
+06073,County,San Diego County,Non_Traditional,None,2015_2017,Percent,78.5
+06073,County,San Diego County,Non_Traditional,Some,2015_2017,Percent,21.5
+06075,County,San Francisco County,Grade 11,Some,2015_2017,Percent,18.8
+06075,County,San Francisco County,Non_Traditional,None,2015_2017,Percent,S
+06075,County,San Francisco County,Non_Traditional,Some,2015_2017,Percent,S
+06077,County,San Joaquin County,Grade 11,Some,2015_2017,Percent,29.0
+06077,County,San Joaquin County,Non_Traditional,None,2015_2017,Percent,84.6
+06077,County,San Joaquin County,Non_Traditional,Some,2015_2017,Percent,15.4
+06079,County,San Luis Obispo County,Grade 11,Some,2015_2017,Percent,31.2
+06079,County,San Luis Obispo County,Non_Traditional,None,2015_2017,Percent,77.5
+06079,County,San Luis Obispo County,Non_Traditional,Some,2015_2017,Percent,22.5
+06081,County,San Mateo County,Grade 11,Some,2015_2017,Percent,S
+06081,County,San Mateo County,Non_Traditional,None,2015_2017,Percent,S
+06081,County,San Mateo County,Non_Traditional,Some,2015_2017,Percent,S
+06083,County,Santa Barbara County,Grade 11,Some,2015_2017,Percent,22.6
+06083,County,Santa Barbara County,Non_Traditional,None,2015_2017,Percent,83.6
+06083,County,Santa Barbara County,Non_Traditional,Some,2015_2017,Percent,16.4
+06085,County,Santa Clara County,Grade 11,Some,2015_2017,Percent,S
+06085,County,Santa Clara County,Non_Traditional,None,2015_2017,Percent,S
+06085,County,Santa Clara County,Non_Traditional,Some,2015_2017,Percent,S
+06087,County,Santa Cruz County,Grade 11,Some,2015_2017,Percent,21.6
+06087,County,Santa Cruz County,Non_Traditional,None,2015_2017,Percent,78.9
+06087,County,Santa Cruz County,Non_Traditional,Some,2015_2017,Percent,21.1
+06089,County,Shasta County,Grade 11,Some,2015_2017,Percent,S
+06089,County,Shasta County,Non_Traditional,None,2015_2017,Percent,S
+06089,County,Shasta County,Non_Traditional,Some,2015_2017,Percent,S
+06091,County,Sierra County,Grade 11,Some,2015_2017,Percent,42.3
+06091,County,Sierra County,Non_Traditional,None,2015_2017,Percent,N_A
+06091,County,Sierra County,Non_Traditional,Some,2015_2017,Percent,N_A
+06093,County,Siskiyou County,Grade 11,Some,2015_2017,Percent,29.8
+06093,County,Siskiyou County,Non_Traditional,None,2015_2017,Percent,S
+06093,County,Siskiyou County,Non_Traditional,Some,2015_2017,Percent,S
+06095,County,Solano County,Grade 11,Some,2015_2017,Percent,29.9
+06095,County,Solano County,Non_Traditional,None,2015_2017,Percent,S
+06095,County,Solano County,Non_Traditional,Some,2015_2017,Percent,S
+06097,County,Sonoma County,Grade 11,Some,2015_2017,Percent,30.6
+06097,County,Sonoma County,Non_Traditional,None,2015_2017,Percent,S
+06097,County,Sonoma County,Non_Traditional,Some,2015_2017,Percent,S
+06099,County,Stanislaus County,Grade 11,Some,2015_2017,Percent,32.4
+06099,County,Stanislaus County,Non_Traditional,None,2015_2017,Percent,67.8
+06099,County,Stanislaus County,Non_Traditional,Some,2015_2017,Percent,32.2
+06101,County,Sutter County,Grade 11,Some,2015_2017,Percent,29.5
+06101,County,Sutter County,Non_Traditional,None,2015_2017,Percent,S
+06101,County,Sutter County,Non_Traditional,Some,2015_2017,Percent,S
+06103,County,Tehama County,Grade 11,Some,2015_2017,Percent,32.2
+06103,County,Tehama County,Non_Traditional,None,2015_2017,Percent,72.1
+06103,County,Tehama County,Non_Traditional,Some,2015_2017,Percent,27.9
+06105,County,Trinity County,Grade 11,Some,2015_2017,Percent,31.0
+06105,County,Trinity County,Non_Traditional,None,2015_2017,Percent,N_A
+06105,County,Trinity County,Non_Traditional,Some,2015_2017,Percent,N_A
+06107,County,Tulare County,Grade 11,Some,2015_2017,Percent,22.7
+06107,County,Tulare County,Non_Traditional,None,2015_2017,Percent,S
+06107,County,Tulare County,Non_Traditional,Some,2015_2017,Percent,S
+06109,County,Tuolumne County,Grade 11,Some,2015_2017,Percent,28.0
+06109,County,Tuolumne County,Non_Traditional,None,2015_2017,Percent,S
+06109,County,Tuolumne County,Non_Traditional,Some,2015_2017,Percent,S
+06111,County,Ventura County,Grade 11,Some,2015_2017,Percent,27.1
+06111,County,Ventura County,Non_Traditional,None,2015_2017,Percent,57.3
+06111,County,Ventura County,Non_Traditional,Some,2015_2017,Percent,42.7
+06113,County,Yolo County,Grade 11,Some,2015_2017,Percent,28.1
+06113,County,Yolo County,Non_Traditional,None,2015_2017,Percent,85.6
+06113,County,Yolo County,Non_Traditional,Some,2015_2017,Percent,14.4
+06115,County,Yuba County,Grade 11,Some,2015_2017,Percent,29.0
+06115,County,Yuba County,Non_Traditional,None,2015_2017,Percent,S
+06115,County,Yuba County,Non_Traditional,Some,2015_2017,Percent,S
+
